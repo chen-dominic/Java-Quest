@@ -1,3 +1,4 @@
+![icon](https://github.com/chen-dominic/Java-Quest/blob/main/res/player/boy_attack_right_1.png)
 # ```JAVA QUEST```
  a 2D Adventure Game developed purely from the built-in Java class library! The player starts off on an island where they meet an old wizard! 
  From that wizard, the player gets clues to begin their big adventure! Combat, Markets, Puzzles, Boss Battles, Java Quest has it all!
