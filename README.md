@@ -4,6 +4,6 @@
  From that wizard, the player gets clues to begin their big adventure! Combat, Markets, Puzzles, Boss Battles, Java Quest has it all!
  
  ### ```How to Run``` ###
- as long as you have Java installed on your device, the game can be opened by downloading and running the jar file!
+ as long as you have Java installed on your device, the game can be opened by downloading and running the jar file! (adding jar soon...)
 
 
