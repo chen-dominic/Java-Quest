@@ -10,6 +10,8 @@
   - Select/Equip | SPACE
   
   - Attack       | K
+
+  - Guard        | SHIFT
   
   - Shoot/Cast   | F
   
