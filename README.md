@@ -5,17 +5,17 @@
 
  ### ```Controls``` ###
  <p>
-  Move         | WASD
+  - Move         | WASD
   
-  Select/Equip | SPACE
+  - Select/Equip | SPACE
   
-  Attack       | K
+  - Attack       | K
   
-  Shoot/Cast   | F
+  - Shoot/Cast   | F
   
-  Inventory    | E
+  - Inventory    | E
   
-  Options      | ESC
+  - Options      | ESC
  </p>
  
  ### ```How to Run``` ###
