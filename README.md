@@ -5,10 +5,15 @@
 
  ### ```Controls``` ###
   Move         | WASD
+  
   Select/Equip | SPACE
+  
   Attack       | K
+  
   Shoot/Cast   | F
+  
   Inventory    | E
+  
   Options      | ESC
  
  ### ```How to Run``` ###
