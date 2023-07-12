@@ -23,4 +23,4 @@
  ### ```How to Run``` ###
  as long as you have Java installed on your device, the game can be opened by downloading and running the jar file!
 
-Click here to see a [**demo**](https://youtu.be/hf3JamjQ39o)!
+Click here to see a [**demo** target="_blank"](https://youtu.be/hf3JamjQ39o)!
